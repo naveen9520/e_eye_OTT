@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796908303570",
+    "project_id": "ottproject-96600",
+    "storage_bucket": "ottproject-96600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796908303570:android:abf41af92e75fe3ed8690b",
+        "android_client_info": {
+          "package_name": "com.naveensolution.e_eye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB48NtewA3hBIZwqFu-FadAwl57izR0Wbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

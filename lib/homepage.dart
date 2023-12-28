@@ -2,7 +2,7 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:dots_indicator/dots_indicator.dart';
 import 'package:e_eye/showDetails.dart';
 import 'package:flutter/material.dart';
-import 'package:video_player/video_player.dart';
+
 
 import 'classpage.dart';
 class home extends StatefulWidget {
@@ -209,7 +209,6 @@ class _homeState extends State<home> {
                         }
                     ),
                   ),
-
       ]
               ),
             ),

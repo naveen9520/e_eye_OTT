@@ -1,19 +1,11 @@
-import 'package:e_eye/profilepage.dart';
-import 'package:e_eye/regscreen.dart';
-import 'package:e_eye/reorder.dart';
-import 'package:e_eye/searchpage.dart';
+
 import 'package:e_eye/splashscreen.dart';
-import 'package:e_eye/videoplayer.dart';
-import 'package:e_eye/welcomepage.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-import 'New & Hot.dart';
-import 'ReorderableListView.dart';
-import 'botnavi.dart';
-import 'e_eye.dart';
 import 'homepage.dart';
-import 'loginscreen.dart';
+
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -37,7 +29,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home:reorderlist(),
+      home:home(),
     );
   }
 }

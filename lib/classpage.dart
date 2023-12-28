@@ -1,6 +1,5 @@
 import 'dart:ui';
 
-import 'package:e_eye/New%20&%20Hot.dart';
 
 class Homepage{
   String? image;
